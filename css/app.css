@@ -357,3 +357,11 @@ img {
         align-items: center;
     }
 }
+
+/* BLOG.HTML */
+
+@media (min-width: 768px) {
+    .blog__grid--pagina {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
