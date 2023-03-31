@@ -365,3 +365,10 @@ img {
         grid-template-columns: repeat(3, 1fr);
     }
 }
+
+/* ENTRADA.HTML */
+
+.entrada {
+    max-width: 80rem;
+    margin: 0 auto;
+}
